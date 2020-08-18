@@ -76,9 +76,9 @@ p {
     margin-bottom: 1rem;
 }
 
-.skill-icon:hover {
-    color: #318fb5;
-}
+    .skill-icon:hover {
+        color: #ff7171;
+    }
 
 /*Project Section*/
 #project {
@@ -132,9 +132,9 @@ p {
     margin-bottom: 1rem;
 }
 
-.activity-icon:hover {
-    color: #318fb5;
-}
+    .activity-icon:hover {
+        color: #ff7171;
+    }
 
 
 /*Contact Section*/
